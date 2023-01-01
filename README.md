@@ -1,3 +1,1 @@
-# RepositorioPruebaPlatzi
-# PLATZI
 # platzimaster2
